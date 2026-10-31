@@ -5,7 +5,7 @@
     First make sure you have a ssh key if you dont have go to my dotfiles repository and follow the instructions
 
     ```
-    git clone git@github.com:ayushkpai/todomvc.git
+    git clone git@github.com:ayushkpai/todomvc-rails.git
     ```
 
 - Next install ruby and rails
